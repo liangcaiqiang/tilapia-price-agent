@@ -1,0 +1,9 @@
+{
+  "started_at": "2026-07-26T22:02:39.448030-07:00",
+  "firecrawl_authenticated": false,
+  "firecrawl_message": "┌─────────────────────────────────────────┐\n│          Firecrawl Configuration        │\n└─────────────────────────────────────────┘\n\nStatus: Not authenticated\n\nRun any command to start authentication, or use:\n  firecrawl config    Authenticate with browser or API key",
+  "usitc_ok": true,
+  "usitc_latest_month": "May",
+  "public_sources_fetched": 7,
+  "errors": []
+}

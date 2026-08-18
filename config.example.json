@@ -1,0 +1,61 @@
+{
+  "llm": {
+    "provider": "openai",
+    "api_key": "sk-你的API-Key",
+    "model": "gpt-4o-mini",
+    "base_url": null
+  },
+
+  "_provider_examples": {
+    "openai": {
+      "provider": "openai",
+      "api_key": "sk-xxxxxxxx",
+      "model": "gpt-4o-mini",
+      "base_url": null
+    },
+    "claude": {
+      "provider": "claude",
+      "api_key": "sk-ant-xxxxxxxx",
+      "model": "claude-sonnet-4-20250514",
+      "base_url": null
+    },
+    "deepseek": {
+      "provider": "deepseek",
+      "api_key": "sk-xxxxxxxx",
+      "model": "deepseek-chat",
+      "base_url": "https://api.deepseek.com/v1"
+    },
+    "gemini": {
+      "provider": "gemini",
+      "api_key": "AIzaSyXXXXXXXXXXXXXX",
+      "model": "gemini-2.0-flash",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta/openai"
+    },
+    "其他兼容openai的API": {
+      "provider": "openai",
+      "api_key": "你的key",
+      "model": "模型名",
+      "base_url": "https://你的api地址/v1"
+    }
+  },
+
+  "news_sources": {
+    "search_enabled": true,
+    "search_keywords": [
+      "罗非鱼 价格 行情",
+      "罗非鱼 出塘价",
+      "罗非鱼 存塘量 放苗",
+      "罗非鱼 饲料 销量",
+      "罗非鱼 加工厂 库存",
+      "罗非鱼 美国 出口",
+      "tilapia price market",
+      "tilapia export US inventory"
+    ],
+    "industry_sites": [
+      "https://www.shuichan.cc",
+      "https://www.fishfirst.cn"
+    ]
+  },
+
+  "data_dir": "./tilapia_data"
+}

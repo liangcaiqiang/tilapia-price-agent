@@ -1,0 +1,37 @@
+# Secrets / local configuration
+config.json
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+.firecrawl-venv/
+venv/
+env/
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Local secrets / credentials
+*.pem
+*.key

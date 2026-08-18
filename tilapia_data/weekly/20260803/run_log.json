@@ -1,0 +1,12 @@
+{
+  "started_at": "2026-08-03T08:43:54.070127+08:00",
+  "firecrawl_authenticated": false,
+  "firecrawl_message": "┌─────────────────────────────────────────┐\n│          Firecrawl Configuration        │\n└─────────────────────────────────────────┘\n\nStatus: Not authenticated\n\nRun any command to start authentication, or use:\n  firecrawl config    Authenticate with browser or API key",
+  "usitc_ok": false,
+  "usitc_latest_month": "May",
+  "public_sources_fetched": 7,
+  "errors": [
+    "USITC: Timeout 120000ms exceeded while waiting for event \"response\"",
+    "USITC使用缓存: /Users/liangcaiqiang/Downloads/罗非鱼鱼价预测Agent/tilapia_data/weekly/20260726/usitc_summary.json"
+  ]
+}

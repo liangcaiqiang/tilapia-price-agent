@@ -1,0 +1,4472 @@
+{
+  "dto": {
+    "title": null,
+    "subtitle": null,
+    "tables": [
+      {
+        "subheads": [],
+        "subHeads": [
+          "Imports For Consumption",
+          "Monthly data for 2026,2025"
+        ],
+        "totalRowSize": 36,
+        "name": "[2026, 2025], Imports for Consumption: Customs Value (In Actual Dollars)",
+        "query": null,
+        "tableInfo": {
+          "tabName": "Customs Value",
+          "year": "[2026, 2025]",
+          "ExtendedImportPrograms": "ALL CSC2",
+          "countries": "",
+          "rateProvisionText": "ALL RPCODES",
+          "importProgram": "ALL CSC",
+          "sortColumn2": "",
+          "dataToReportDesc": "Customs Value",
+          "sortColumn3": "",
+          "sortColumn1": "",
+          "name": "[2026, 2025], Imports for Consumption: Customs Value (In Actual Dollars)",
+          "commoditiesDesc": "All Import Commodities"
+        },
+        "column_groups": [
+          {
+            "name": null,
+            "label": null,
+            "columns": [
+              {
+                "fieldName": null,
+                "label": "Country"
+              },
+              {
+                "fieldName": null,
+                "label": "Year"
+              },
+              {
+                "fieldName": null,
+                "label": "Quantity Description"
+              }
+            ]
+          },
+          {
+            "name": null,
+            "label": "In Actual Dollars",
+            "columns": [
+              {
+                "fieldName": null,
+                "label": "January"
+              },
+              {
+                "fieldName": null,
+                "label": "February"
+              },
+              {
+                "fieldName": null,
+                "label": "March"
+              },
+              {
+                "fieldName": null,
+                "label": "April"
+              },
+              {
+                "fieldName": null,
+                "label": "May"
+              },
+              {
+                "fieldName": null,
+                "label": "June"
+              },
+              {
+                "fieldName": null,
+                "label": "July"
+              },
+              {
+                "fieldName": null,
+                "label": "August"
+              },
+              {
+                "fieldName": null,
+                "label": "September"
+              },
+              {
+                "fieldName": null,
+                "label": "October"
+              },
+              {
+                "fieldName": null,
+                "label": "November"
+              },
+              {
+                "fieldName": null,
+                "label": "December"
+              }
+            ]
+          }
+        ],
+        "row_groups": [
+          {
+            "columnInfo": [
+              {
+                "year": null,
+                "type": "country",
+                "columnLabel": "Country",
+                "queryResultLabel": "country",
+                "columnIndex": 1,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "year",
+                "columnLabel": "Year",
+                "queryResultLabel": "year",
+                "columnIndex": 2,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "units_description",
+                "columnLabel": "Quantity Description",
+                "queryResultLabel": "units_description",
+                "columnIndex": 3,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "january",
+                "queryResultLabel": "january",
+                "columnIndex": 4,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "february",
+                "queryResultLabel": "february",
+                "columnIndex": 5,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "march",
+                "queryResultLabel": "march",
+                "columnIndex": 6,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "april",
+                "queryResultLabel": "april",
+                "columnIndex": 7,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "may",
+                "queryResultLabel": "may",
+                "columnIndex": 8,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "june",
+                "queryResultLabel": "june",
+                "columnIndex": 9,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "july",
+                "queryResultLabel": "july",
+                "columnIndex": 10,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "august",
+                "queryResultLabel": "august",
+                "columnIndex": 11,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "september",
+                "queryResultLabel": "september",
+                "columnIndex": 12,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "october",
+                "queryResultLabel": "october",
+                "columnIndex": 13,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "november",
+                "queryResultLabel": "november",
+                "columnIndex": 14,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "december",
+                "queryResultLabel": "december",
+                "columnIndex": 15,
+                "special": false
+              }
+            ],
+            "name": null,
+            "label": null,
+            "rows": [],
+            "rowsNew": [
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brazil"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "303,146"
+                  },
+                  {
+                    "value": "73,500"
+                  },
+                  {
+                    "value": "286,660"
+                  },
+                  {
+                    "value": "389,200"
+                  },
+                  {
+                    "value": "233,344"
+                  },
+                  {
+                    "value": "256,177"
+                  },
+                  {
+                    "value": "88,301"
+                  },
+                  {
+                    "value": "94,160"
+                  },
+                  {
+                    "value": "34,636"
+                  },
+                  {
+                    "value": "172,474"
+                  },
+                  {
+                    "value": "88,226"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brazil"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "85,586"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "9,602"
+                  },
+                  {
+                    "value": "39,377"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brunei"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "31,570"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "72,216"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brunei"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "129,620"
+                  },
+                  {
+                    "value": "80,471"
+                  },
+                  {
+                    "value": "70,573"
+                  },
+                  {
+                    "value": "132,107"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "China"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "45,381,823"
+                  },
+                  {
+                    "value": "31,005,140"
+                  },
+                  {
+                    "value": "18,759,343"
+                  },
+                  {
+                    "value": "20,454,010"
+                  },
+                  {
+                    "value": "17,721,563"
+                  },
+                  {
+                    "value": "9,767,757"
+                  },
+                  {
+                    "value": "24,878,696"
+                  },
+                  {
+                    "value": "23,827,857"
+                  },
+                  {
+                    "value": "17,952,651"
+                  },
+                  {
+                    "value": "17,528,509"
+                  },
+                  {
+                    "value": "18,778,571"
+                  },
+                  {
+                    "value": "12,169,519"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "China"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "15,783,902"
+                  },
+                  {
+                    "value": "11,148,828"
+                  },
+                  {
+                    "value": "14,881,079"
+                  },
+                  {
+                    "value": "8,959,720"
+                  },
+                  {
+                    "value": "13,597,964"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Colombia"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "167,872"
+                  },
+                  {
+                    "value": "65,220"
+                  },
+                  {
+                    "value": "168,022"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "351,437"
+                  },
+                  {
+                    "value": "318,051"
+                  },
+                  {
+                    "value": "328,622"
+                  },
+                  {
+                    "value": "7,519"
+                  },
+                  {
+                    "value": "268,909"
+                  },
+                  {
+                    "value": "94,806"
+                  },
+                  {
+                    "value": "476,081"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Colombia"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "158,269"
+                  },
+                  {
+                    "value": "158,078"
+                  },
+                  {
+                    "value": "150,291"
+                  },
+                  {
+                    "value": "62,878"
+                  },
+                  {
+                    "value": "157,757"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Ecuador"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "32,452"
+                  },
+                  {
+                    "value": "38,007"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "37,604"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "15,168"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Egypt"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "50,400"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Egypt"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "49,952"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Honduras"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "117,792"
+                  },
+                  {
+                    "value": "615,058"
+                  },
+                  {
+                    "value": "119,460"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "255,583"
+                  },
+                  {
+                    "value": "900,361"
+                  },
+                  {
+                    "value": "1,288,466"
+                  },
+                  {
+                    "value": "530,336"
+                  },
+                  {
+                    "value": "126,595"
+                  },
+                  {
+                    "value": "116,367"
+                  },
+                  {
+                    "value": "231,247"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Honduras"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "3,965"
+                  },
+                  {
+                    "value": "169,933"
+                  },
+                  {
+                    "value": "299,665"
+                  },
+                  {
+                    "value": "521,232"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Hong Kong"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "40,869"
+                  },
+                  {
+                    "value": "51,023"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "87,069"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Hong Kong"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "16,754"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "48,828"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "India"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "43,401"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "48,778"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "India"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "44,011"
+                  },
+                  {
+                    "value": "326,246"
+                  },
+                  {
+                    "value": "42,376"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Indonesia"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "4,250,387"
+                  },
+                  {
+                    "value": "2,543,419"
+                  },
+                  {
+                    "value": "3,710,131"
+                  },
+                  {
+                    "value": "6,029,921"
+                  },
+                  {
+                    "value": "2,613,547"
+                  },
+                  {
+                    "value": "5,898,773"
+                  },
+                  {
+                    "value": "3,631,781"
+                  },
+                  {
+                    "value": "4,523,487"
+                  },
+                  {
+                    "value": "4,927,529"
+                  },
+                  {
+                    "value": "7,350,950"
+                  },
+                  {
+                    "value": "6,253,374"
+                  },
+                  {
+                    "value": "7,388,500"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Indonesia"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "6,589,598"
+                  },
+                  {
+                    "value": "5,825,087"
+                  },
+                  {
+                    "value": "5,741,765"
+                  },
+                  {
+                    "value": "5,494,299"
+                  },
+                  {
+                    "value": "3,708,192"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Malaysia"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "515,325"
+                  },
+                  {
+                    "value": "124,100"
+                  },
+                  {
+                    "value": "243,675"
+                  },
+                  {
+                    "value": "203,557"
+                  },
+                  {
+                    "value": "134,862"
+                  },
+                  {
+                    "value": "361,622"
+                  },
+                  {
+                    "value": "220,862"
+                  },
+                  {
+                    "value": "322,257"
+                  },
+                  {
+                    "value": "351,345"
+                  },
+                  {
+                    "value": "197,966"
+                  },
+                  {
+                    "value": "116,023"
+                  },
+                  {
+                    "value": "221,769"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Malaysia"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "114,035"
+                  },
+                  {
+                    "value": "131,462"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "113,135"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Mexico"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "3,600"
+                  },
+                  {
+                    "value": "477,610"
+                  },
+                  {
+                    "value": "292,994"
+                  },
+                  {
+                    "value": "516,606"
+                  },
+                  {
+                    "value": "300,827"
+                  },
+                  {
+                    "value": "285,660"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "77,678"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "147,960"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Mexico"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "158,148"
+                  },
+                  {
+                    "value": "338,738"
+                  },
+                  {
+                    "value": "121,547"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Panama"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "7,493"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "16,432"
+                  },
+                  {
+                    "value": "13,869"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "79,276"
+                  },
+                  {
+                    "value": "60,179"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "27,004"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Peru"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "176,400"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "343,164"
+                  },
+                  {
+                    "value": "133,243"
+                  },
+                  {
+                    "value": "343,597"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "172,580"
+                  },
+                  {
+                    "value": "518,083"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "176,400"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Peru"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "109,360"
+                  },
+                  {
+                    "value": "344,219"
+                  },
+                  {
+                    "value": "335,223"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Portugal"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "7,496"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Taiwan"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "1,652,255"
+                  },
+                  {
+                    "value": "1,035,250"
+                  },
+                  {
+                    "value": "1,628,293"
+                  },
+                  {
+                    "value": "1,911,750"
+                  },
+                  {
+                    "value": "1,550,927"
+                  },
+                  {
+                    "value": "1,982,261"
+                  },
+                  {
+                    "value": "1,826,697"
+                  },
+                  {
+                    "value": "1,632,682"
+                  },
+                  {
+                    "value": "725,658"
+                  },
+                  {
+                    "value": "386,327"
+                  },
+                  {
+                    "value": "761,777"
+                  },
+                  {
+                    "value": "945,096"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Taiwan"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "509,860"
+                  },
+                  {
+                    "value": "690,248"
+                  },
+                  {
+                    "value": "531,329"
+                  },
+                  {
+                    "value": "847,872"
+                  },
+                  {
+                    "value": "780,806"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Thailand"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "55,440"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Thailand"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "30,800"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "United Arab Emirates"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "105,800"
+                  },
+                  {
+                    "value": "88,850"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "United Arab Emirates"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "110,900"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Uruguay"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "162,986"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Vietnam"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "1,605,582"
+                  },
+                  {
+                    "value": "854,139"
+                  },
+                  {
+                    "value": "1,302,982"
+                  },
+                  {
+                    "value": "1,372,805"
+                  },
+                  {
+                    "value": "3,070,728"
+                  },
+                  {
+                    "value": "3,332,558"
+                  },
+                  {
+                    "value": "5,623,230"
+                  },
+                  {
+                    "value": "4,707,176"
+                  },
+                  {
+                    "value": "7,077,650"
+                  },
+                  {
+                    "value": "3,908,762"
+                  },
+                  {
+                    "value": "2,326,827"
+                  },
+                  {
+                    "value": "2,216,976"
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Vietnam"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "Value for: kilograms"
+                  },
+                  {
+                    "value": "2,273,007"
+                  },
+                  {
+                    "value": "2,696,630"
+                  },
+                  {
+                    "value": "2,312,608"
+                  },
+                  {
+                    "value": "2,853,226"
+                  },
+                  {
+                    "value": "1,317,520"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  },
+                  {
+                    "value": "0"
+                  }
+                ]
+              }
+            ],
+            "subtotals": []
+          }
+        ],
+        "total": {
+          "values": [
+            "Total: ",
+            "",
+            "",
+            "79,273,511",
+            "58,868,631",
+            "51,502,243",
+            "49,893,186",
+            "46,498,633",
+            "22,506,599",
+            "38,145,668",
+            "37,384,179",
+            "31,986,488",
+            "29,973,948",
+            "28,620,219",
+            "24,061,774"
+          ],
+          "warning": null
+        },
+        "label": null,
+        "tab_name": "Customs Value",
+        "rows": []
+      },
+      {
+        "subheads": [],
+        "subHeads": [
+          "Imports For Consumption",
+          "Monthly data for 2026,2025"
+        ],
+        "totalRowSize": 36,
+        "name": "[2026, 2025], Imports for Consumption: First Unit of Quantity (In Actual Units of Quantity)",
+        "query": null,
+        "tableInfo": {
+          "tabName": "First Unit of Quantity",
+          "year": "[2026, 2025]",
+          "ExtendedImportPrograms": "ALL CSC2",
+          "countries": "",
+          "rateProvisionText": "ALL RPCODES",
+          "importProgram": "ALL CSC",
+          "sortColumn2": "",
+          "dataToReportDesc": "First Unit of Quantity",
+          "sortColumn3": "",
+          "sortColumn1": "",
+          "name": "[2026, 2025], Imports for Consumption: First Unit of Quantity (In Actual Units of Quantity)",
+          "commoditiesDesc": "All Import Commodities"
+        },
+        "column_groups": [
+          {
+            "name": null,
+            "label": null,
+            "columns": [
+              {
+                "fieldName": null,
+                "label": "Country"
+              },
+              {
+                "fieldName": null,
+                "label": "Year"
+              },
+              {
+                "fieldName": null,
+                "label": "Quantity Description"
+              }
+            ]
+          },
+          {
+            "name": null,
+            "label": "In Actual Units of Quantity",
+            "columns": [
+              {
+                "fieldName": null,
+                "label": "January"
+              },
+              {
+                "fieldName": null,
+                "label": "February"
+              },
+              {
+                "fieldName": null,
+                "label": "March"
+              },
+              {
+                "fieldName": null,
+                "label": "April"
+              },
+              {
+                "fieldName": null,
+                "label": "May"
+              },
+              {
+                "fieldName": null,
+                "label": "June"
+              },
+              {
+                "fieldName": null,
+                "label": "July"
+              },
+              {
+                "fieldName": null,
+                "label": "August"
+              },
+              {
+                "fieldName": null,
+                "label": "September"
+              },
+              {
+                "fieldName": null,
+                "label": "October"
+              },
+              {
+                "fieldName": null,
+                "label": "November"
+              },
+              {
+                "fieldName": null,
+                "label": "December"
+              }
+            ]
+          }
+        ],
+        "row_groups": [
+          {
+            "columnInfo": [
+              {
+                "year": null,
+                "type": "country",
+                "columnLabel": "Country",
+                "queryResultLabel": "country",
+                "columnIndex": 1,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "year",
+                "columnLabel": "Year",
+                "queryResultLabel": "year",
+                "columnIndex": 2,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "units_description",
+                "columnLabel": "Quantity Description",
+                "queryResultLabel": "units_description",
+                "columnIndex": 3,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "january",
+                "queryResultLabel": "january",
+                "columnIndex": 4,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "february",
+                "queryResultLabel": "february",
+                "columnIndex": 5,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "march",
+                "queryResultLabel": "march",
+                "columnIndex": 6,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "april",
+                "queryResultLabel": "april",
+                "columnIndex": 7,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "may",
+                "queryResultLabel": "may",
+                "columnIndex": 8,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "june",
+                "queryResultLabel": "june",
+                "columnIndex": 9,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "july",
+                "queryResultLabel": "july",
+                "columnIndex": 10,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "august",
+                "queryResultLabel": "august",
+                "columnIndex": 11,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "september",
+                "queryResultLabel": "september",
+                "columnIndex": 12,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "october",
+                "queryResultLabel": "october",
+                "columnIndex": 13,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "november",
+                "queryResultLabel": "november",
+                "columnIndex": 14,
+                "special": false
+              },
+              {
+                "year": null,
+                "type": "data",
+                "columnLabel": "december",
+                "queryResultLabel": "december",
+                "columnIndex": 15,
+                "special": false
+              }
+            ],
+            "name": null,
+            "label": null,
+            "rows": [],
+            "rowsNew": [
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brazil"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "56,868",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "18,562",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "53,164",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "97,007",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "68,267",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "99,891",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "40,789",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "21,682",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "19,465",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "37,358",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "19,087",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brazil"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "18,543",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "1,361",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "5,453",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brunei"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "7,475",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "18,489",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Brunei"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "34,412",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "20,897",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "18,612",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "34,548",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "China"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "12,146,940",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "8,176,335",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "5,055,574",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "5,551,513",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "5,185,448",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "3,686,780",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "9,230,705",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "8,622,276",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "7,107,379",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "6,887,509",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "7,900,632",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "5,177,977",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "China"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "6,799,026",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "4,892,479",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "6,516,667",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "3,845,424",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "6,115,826",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Colombia"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "17,636",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "6,862",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "17,636",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "41,056",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "36,872",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "36,066",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "816",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "28,958",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "10,582",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "51,906",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Colombia"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "17,636",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "17,552",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "16,754",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "7,054",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "17,636",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Ecuador"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "8,304",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "16,900",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "8,745",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "1,975",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Egypt"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "20,412",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Egypt"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "20,231",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Honduras"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "14,742",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "73,563",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "14,246",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "28,775",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "110,548",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "149,747",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "62,029",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "15,422",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "12,781",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "25,397",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Honduras"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "435",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "20,384",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "28,112",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "48,073",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Hong Kong"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "6,634",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "8,221",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "13,777",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Hong Kong"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "3,152",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "9,072",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "India"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "8,617",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "9,526",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "India"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "20,642",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "67,484",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "18,507",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Indonesia"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "459,073",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "288,501",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "397,664",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "673,910",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "311,848",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "684,296",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "451,422",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "558,754",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "600,830",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "860,726",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "755,392",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "873,242",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Indonesia"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "819,886",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "684,073",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "706,637",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "674,135",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "460,316",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Malaysia"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "72,228",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "15,422",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "32,048",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "39,663",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "18,126",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "72,890",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "39,000",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "81,721",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "101,765",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "36,529",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "34,992",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "30,166",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Malaysia"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "15,741",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "33,057",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "15,556",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Mexico"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "1,642",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "134,599",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "38,197",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "70,771",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "36,007",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "31,519",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "9,024",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "16,416",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Mexico"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "11,836",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "29,769",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "20,172",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Panama"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "1,152",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "2,527",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "2,250",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "13,064",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "9,938",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "4,454",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Peru"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "16,344",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "32,688",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "12,830",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "32,667",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "16,344",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "48,991",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "16,344",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Peru"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "10,624",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "32,688",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "31,854",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Portugal"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "837",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Taiwan"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "162,979",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "89,697",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "148,137",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "171,358",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "171,953",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "198,695",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "176,056",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "151,334",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "67,214",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "41,394",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "80,861",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "118,978",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Taiwan"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "62,972",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "77,385",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "91,345",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "112,666",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "149,104",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Thailand"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "21,705",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Thailand"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "21,705",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "United Arab Emirates"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "20,865",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "19,051",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "United Arab Emirates"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "38,102",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Uruguay"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "60,036",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Vietnam"
+                  },
+                  {
+                    "value": "2025"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "285,262",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "155,631",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "242,681",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "268,905",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "625,348",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "679,652",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "1,090,960",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "875,603",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "1,320,737",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "817,801",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "523,333",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "605,904",
+                    "suppressed": 0
+                  }
+                ]
+              },
+              {
+                "rowEntries": [
+                  {
+                    "value": "Vietnam"
+                  },
+                  {
+                    "value": "2026"
+                  },
+                  {
+                    "value": "kilograms"
+                  },
+                  {
+                    "value": "516,433",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "607,752",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "652,163",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "640,817",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "321,146",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  },
+                  {
+                    "value": "0",
+                    "suppressed": 0
+                  }
+                ]
+              }
+            ],
+            "subtotals": []
+          }
+        ],
+        "total": {
+          "values": [],
+          "warning": null
+        },
+        "label": null,
+        "tab_name": "First Unit of Quantity",
+        "rows": []
+      }
+    ],
+    "errors": [],
+    "complexityThreshold": false,
+    "problemSql": null,
+    "needMoreTime": null,
+    "isOwner": null,
+    "htsChanges": {
+      "changes": [],
+      "validTimeSeriesNums": [],
+      "validTimeSeries": [],
+      "isValid": true
+    },
+    "hts2Selections": [
+      "03"
+    ]
+  }
+}

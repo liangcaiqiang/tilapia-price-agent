@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+requests
+beautifulsoup4
+lxml
+playwright
+firecrawl-py
